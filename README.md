@@ -1,3 +1,3 @@
 # Projet-Worldwide-Weather-Watcher
 
-Pour ce projet, il nous a été demandé de créer un prototype de station météo. Pour cela, nous avions à disposition différents modules comme une horloge RTC et différents capteurs. Le fonctionnement du prototype est décrit dans le PDF et son code est écrit dans le fichier Main.cpp.
+For this project, we were asked to create a weather station prototype. To do this, we were provided with various modules such as an RTC clock and various sensors. The operation of the prototype is described in the PDF and its code is written in the Main.cpp file.
